@@ -1,1 +1,1 @@
-# tools
+# projekta rīki (programmatūra)
