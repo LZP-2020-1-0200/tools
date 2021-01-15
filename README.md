@@ -4,3 +4,4 @@
 * [PlatformIO](https://platformio.org/) install as extenstio within VSC
 * [MSYS2](https://www.msys2.org)
 * [GNU Octave](https://www.gnu.org/software/octave/index)
+* [drawio-desktop](https://github.com/jgraph/drawio-desktop) Diagrams.net desktop application
