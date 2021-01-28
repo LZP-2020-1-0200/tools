@@ -5,3 +5,4 @@
 * [MSYS2](https://www.msys2.org)
 * [GNU Octave](https://www.gnu.org/software/octave/index)
 * [drawio-desktop](https://github.com/jgraph/drawio-desktop) Diagrams.net desktop application
+* [TeX Live](https://www.tug.org/texlive/acquire-netinstall.html)
